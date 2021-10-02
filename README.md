@@ -1,4 +1,4 @@
-### Hi there, RTBRuhan 👋
+### Hi there, I am RTBRuhan 👋
 
 [![Website](https://img.shields.io/website?label=RTBRuhan&style=for-the-badge&url=https%3A%2F%2Fabout.me/RTBRuhan)](https://about.me/RTBRuhan)
 
