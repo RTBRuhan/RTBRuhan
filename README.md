@@ -31,16 +31,6 @@
 
 ➡️ [more videos...](https://youtube.com/RTBRuhan)
 
----
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="RTBRuhan's GitHub Stats" src="https://github-readme-stats.RTBRuhan.vercel.app/api?username=RTBRuhan&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://about.me/RTBRuhan
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/RTBRuhan
