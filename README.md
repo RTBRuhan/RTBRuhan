@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently doing my C.M.T
 - 👯 Interested to colaborate on Fun projects
-- 🥅 Current Goals: Contribute more to Fun projects
+- 🥅 Current Goals: Learn more
 
 ### Connect with me:
 
