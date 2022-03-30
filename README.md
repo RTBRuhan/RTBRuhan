@@ -4,8 +4,8 @@
 
 ## I do Random things
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently doing my C.M.T
+- 👯 Interested to colaborate on Fun projects
 - 🥅 Current Goals: Contribute more to Fun projects
 
 ### Connect with me:
