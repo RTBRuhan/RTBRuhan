@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=RTBRuhan&style=for-the-badge&url=https%3A%2F%2Fabout.me/RTBRuhan)](https://about.me/RTBRuhan)
 
-## I don't know what I do
+## Existential crisis mode activated! Help!
 
 - 🌱 I’m currently doing my C.M.T
 - 👯 Interested to colaborate on Fun projects
