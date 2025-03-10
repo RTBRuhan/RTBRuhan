@@ -4,8 +4,7 @@
 
 ## Existential crisis mode activated! Help!
 
-- 🌱 I’m currently doing my C.M.T
-- 👯 Interested to colaborate on Fun projects
+- 👯 Interested to collaborate on Fun projects
 - 🥅 Current Goals: Learn more
 
 ### Connect with me:
